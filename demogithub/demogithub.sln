@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demogithub", "demogithub\demogithub.csproj", "{D64B74B1-B230-4534-91EB-B521B42056A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D64B74B1-B230-4534-91EB-B521B42056A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D64B74B1-B230-4534-91EB-B521B42056A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D64B74B1-B230-4534-91EB-B521B42056A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D64B74B1-B230-4534-91EB-B521B42056A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
